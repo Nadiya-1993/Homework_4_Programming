@@ -1,0 +1,15 @@
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\bin\Debug\net6.0\task_25.exe
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\bin\Debug\net6.0\task_25.deps.json
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\bin\Debug\net6.0\task_25.runtimeconfig.json
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\bin\Debug\net6.0\task_25.dll
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\bin\Debug\net6.0\task_25.pdb
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.csproj.AssemblyReference.cache
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.AssemblyInfoInputs.cache
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.AssemblyInfo.cs
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.csproj.CoreCompileInputs.cache
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.dll
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\refint\task_25.dll
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.pdb
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\task_25.genruntimeconfig.cache
+C:\Users\Надюкай\Desktop\Geekbrains\Homework_4\task_25\obj\Debug\net6.0\ref\task_25.dll
